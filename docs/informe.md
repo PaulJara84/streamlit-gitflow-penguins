@@ -65,7 +65,8 @@ feature/pruebas-pytest
 release/v1.0.0
 
 ##7. Evidencia de ramas y tags
-<img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/d66940bf-91f1-4c5f-a06b-5963039023cb" />
+<img width="1920" height="955" alt="evidencia-ramas" src="https://github.com/user-attachments/assets/1b801550-8889-48d0-8a76-3d44d7966cbc" />
+
 
 
 ## 8. Conclusiones
